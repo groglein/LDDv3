@@ -1,0 +1,4 @@
+These are the example device drivers for Linux Device Drivers, 3rd edition.
+They have been modified to build on more current versions of the Linux
+kernel, and when I get them to compile on a particular version of the kernel
+I will tag them with kernel version.
